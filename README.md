@@ -7,3 +7,5 @@ Ingame:
 Optimization:
 - Add your own voice to the folders 'left' and 'right'
 - Change the files in reference_words
+- Add more comments (sorry.. it was just a fast experiment)
+- Better gamedesign.. sorry this little "game" should only test the possibilities of classic voice recognization..
