@@ -1,8 +1,9 @@
 # Falling_Rectangles
-A mini game controlled by your voice..
+A mini game controlled by your voice.  
+It was just a test for speech recognization.  
 
 # Preperation
-- Add to folder 'left' about 10 spoken words 'left' and do the same for the right folder with 'right'
+- Add to folder left about 10 spoken words 'left' and do the same for the right folder with 'right'
 - Now we need 1 reference word for 'left' and 1 reference word for 'right'.. add those to the reference folder  
   
 Use for voice recording the WAV format.
